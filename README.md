@@ -325,7 +325,7 @@ See [ROADMAP.md](./docs/ROADMAP.md) for detailed breakdown.
   <a href="https://github.com/KevinMB0220">
     <img src="https://avatars.githubusercontent.com/u/130603817?v=4" width="100px;" style="border-radius:50%;" alt="KevinMB0220"/><br />
     <sub><b>🥇 @KevinMB0220</b></sub><br />
-    <sub>6 contributions</sub>
+    <sub>9 contributions</sub>
   </a>
 </td>
 
